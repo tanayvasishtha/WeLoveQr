@@ -435,13 +435,13 @@ function App() {
             <div>
               <h3 className="text-lg font-semibold mb-4">Connect With Us</h3>
               <div className="flex space-x-4">
-                <a href="https://github.com/" target="_blank" rel="noopener noreferrer" className="text-gray-600 hover:text-gray-900">
+                <a href="https://github.com/tanayvasishtha" target="_blank" rel="noopener noreferrer" className="text-gray-600 hover:text-gray-900">
                   <Github size={24} />
                 </a>
-                <a href="https://www.linkedin.com/in/" target="_blank" rel="noopener noreferrer" className="text-gray-600 hover:text-gray-900">
+                <a href="https://www.linkedin.com/in/tanayvasishtha/" target="_blank" rel="noopener noreferrer" className="text-gray-600 hover:text-gray-900">
                   <Linkedin size={24} />
                 </a>
-                <a href="https://x.com/" target="_blank" rel="noopener noreferrer" className="text-gray-600 hover:text-gray-900">
+                <a href="https://x.com/TanayVasishtha" target="_blank" rel="noopener noreferrer" className="text-gray-600 hover:text-gray-900">
                   <Twitter size={24} />
                 </a>
               </div>
