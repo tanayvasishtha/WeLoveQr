@@ -270,11 +270,11 @@ function App() {
           <div className="space-y-4">
             <div className="flex items-center gap-3">
               <Mail className="text-blue-600" />
-              <span>Email: contact@weloveqr.com</span>
+              <span>Email: wemakeappspvt@gmail.com</span>
             </div>
             <div className="flex items-center gap-3">
               <Twitter className="text-blue-400" />
-              <span>Twitter: @weloveqr</span>
+              <span>Twitter: @TanayVasishtha</span>
             </div>
           </div>
         </div>
@@ -282,7 +282,7 @@ function App() {
         <div className="mt-8 p-6 bg-gray-50 rounded-xl">
           <h3 className="text-xl font-semibold mb-4">Business Inquiries</h3>
           <p className="text-gray-600">
-            For business partnerships, advertising opportunities, or other commercial inquiries, please email us at business@weloveqr.com
+            For business partnerships, advertising opportunities, or other commercial inquiries, please email us at wemakeappspvt@gmail.com
           </p>
         </div>
       </div>
